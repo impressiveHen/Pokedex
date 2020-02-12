@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/Pokedex/static/css/main.502aa52b.chunk.css",
+    "main.js": "/Pokedex/static/js/main.61cada80.chunk.js",
+    "main.js.map": "/Pokedex/static/js/main.61cada80.chunk.js.map",
+    "runtime-main.js": "/Pokedex/static/js/runtime-main.34ba02eb.js",
+    "runtime-main.js.map": "/Pokedex/static/js/runtime-main.34ba02eb.js.map",
+    "static/js/2.ebdf0777.chunk.js": "/Pokedex/static/js/2.ebdf0777.chunk.js",
+    "static/js/2.ebdf0777.chunk.js.map": "/Pokedex/static/js/2.ebdf0777.chunk.js.map",
+    "index.html": "/Pokedex/index.html",
+    "precache-manifest.11efe98cfe792d587977857fe6bea94b.js": "/Pokedex/precache-manifest.11efe98cfe792d587977857fe6bea94b.js",
+    "service-worker.js": "/Pokedex/service-worker.js",
+    "static/css/main.502aa52b.chunk.css.map": "/Pokedex/static/css/main.502aa52b.chunk.css.map",
+    "static/media/Blastoise.png": "/Pokedex/static/media/Blastoise.14aba60b.png",
+    "static/media/Bulbasaur.png": "/Pokedex/static/media/Bulbasaur.9ba4d684.png",
+    "static/media/Charizard.png": "/Pokedex/static/media/Charizard.2d32cf3c.png",
+    "static/media/Charmander.png": "/Pokedex/static/media/Charmander.9be8f2a8.png",
+    "static/media/Charmeleon.png": "/Pokedex/static/media/Charmeleon.4e83c7db.png",
+    "static/media/Home.css": "/Pokedex/static/media/Cosmos.418bae45.jpg",
+    "static/media/Dragon.jpg": "/Pokedex/static/media/Dragon.5dc8724c.jpg",
+    "static/media/HeaderPokemon.jpg": "/Pokedex/static/media/HeaderPokemon.81a2b999.jpg",
+    "static/media/Ivysaur.png": "/Pokedex/static/media/Ivysaur.28cc8e88.png",
+    "static/media/LinksBack.png": "/Pokedex/static/media/LinksBack.03668fe5.png",
+    "static/media/LucPik.png": "/Pokedex/static/media/LucPik.a4343441.png",
+    "static/media/Omega.jpg": "/Pokedex/static/media/Omega.be932ae0.jpg",
+    "static/media/PokeLogo.png": "/Pokedex/static/media/PokeLogo.bb9ba4d9.png",
+    "static/media/Squirtle.png": "/Pokedex/static/media/Squirtle.7b9ddf69.png",
+    "static/media/ThreeBirds.jpg": "/Pokedex/static/media/ThreeBirds.6084ac2b.jpg",
+    "static/media/Venusaur.png": "/Pokedex/static/media/Venusaur.8c37e2ae.png",
+    "static/media/Wartortle.png": "/Pokedex/static/media/Wartortle.04cfac86.png",
+    "static/media/slider-left-arrow.svg": "/Pokedex/static/media/slider-left-arrow.aaf34fe7.svg",
+    "static/media/slider-right-arrow.svg": "/Pokedex/static/media/slider-right-arrow.1d292928.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34ba02eb.js",
+    "static/js/2.ebdf0777.chunk.js",
+    "static/css/main.502aa52b.chunk.css",
+    "static/js/main.61cada80.chunk.js"
+  ]
+}
