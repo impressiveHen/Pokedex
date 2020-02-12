@@ -24,11 +24,11 @@ const Search = () => {
     }
 
     const reload = () => {
-        dispatch(pokedexActions.fetchLimitNames(200));
+        dispatch(pokedexActions.fetchLimitNames(50));
     }
 
     useEffect(() => {
-        dispatch(pokedexActions.fetchLimitNames(200))
+        dispatch(pokedexActions.fetchLimitNames(50))
     }, [dispatch])
 
     if (isLoading) {
