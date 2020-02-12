@@ -25,7 +25,7 @@ const PokeList = (props) => {
                             }}
                             style={{
                                 width: "14rem",
-                                marginLeft: "1.3rem",
+                                marginLeft: "2.8rem",
                                 marginTop: "1rem",
                             }}
                         >
